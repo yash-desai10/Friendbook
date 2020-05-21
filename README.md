@@ -19,6 +19,18 @@ On localhost:
 ## Screenshots
 Home Page or Login Page
 
+![](Home%20Page.png)
+
+Friends Page
+
+![](Friends%20Page.png)
+
+Forgot Password Page
+
+![](Forgot%20Password%20Page.png)
+
+
+
 ## Authors
 
 * **Suman Singh**
